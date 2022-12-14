@@ -32,7 +32,9 @@
     nav a:hover {
       background-color: #444;
     }
-
+figure{
+margin-left: 700px;}
+        margin-top: 200px;
     }
     p{
         text-align: center;
@@ -41,6 +43,9 @@
    figure{
     margin-left: auto; 
        margin-right:auto;
+       text-align:center;
+       align-items:center;
+       
 
     }
     body{
