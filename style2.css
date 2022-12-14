@@ -1,0 +1,42 @@
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.nav1{
+    position: fixed;
+    top: 50;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    margin: 0;
+    list-style: none;
+}
+nav {
+  position: fixed;
+  top: 50;
+  left: 0;
+  width: 25%;
+  background-color: #444;
+  font-size: 20px;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+    display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: #444;
+}

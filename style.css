@@ -1,0 +1,53 @@
+
+    h1{
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 70px;
+        margin-top: 0;
+        margin-bottom: 0;
+        color: white;
+       
+    }
+    nav {
+      top: 50;
+      left: 0;
+      width: 100%;
+      background-color: #333;
+      font-size: 20px;
+    }
+    nav ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    nav li {
+        display: inline-block;
+    }
+    nav a {
+      display: block;
+      padding: 10px 20px;
+      color: #fff;
+      text-decoration: none;
+    }
+    nav a:hover {
+      background-color: #444;
+    }
+    title{
+        margin-top: 200px;
+    }
+    p{
+        text-align: center;
+
+    }
+   figure{
+    margin-left: 700px;
+
+    }
+    body{
+      background-image: url(uvitacisite.jpg);
+    }
+    p{
+      color: white;
+      font-size: 20px;
+    }
+    
